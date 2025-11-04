@@ -13,4 +13,4 @@ wheels/
 .env
 
 # Data folder (raw or processed data)
-data/
+src/credit_risk_prediction/data/
